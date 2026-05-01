@@ -3,7 +3,7 @@
 ![AWS](https://img.shields.io/badge/AWS-Monitoring-orange)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-Alerts-blue)
 ![SNS](https://img.shields.io/badge/SNS-Notifications-yellow)
-![Status](https://img.shields.io/badge/Project-In-Progress-brightgreen)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 A basic implementation of AWS monitoring and alerting using CloudWatch and SNS to understand threshold-based notifications for EC2 instances.
 
