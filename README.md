@@ -20,6 +20,7 @@ It focuses on understanding the alerting workflow, alarm state transitions, and 
 ## Architecture Flow
 
 EC2 → CloudWatch → SNS → Email Notification
+
 ---
 
 ## Architecture Diagram
